@@ -46,5 +46,9 @@ mingw32-make -j6
 10. once the build has been successfully completed you will find a .UF2 File in your build folder for Hello World.
 11. Mount your RP2040. Make sure you press and hold the BOOTSEL button while mounting the usb and then release the button.
 12. Once Done a RP1-RP2 folder shall open up.
+
+![image](https://user-images.githubusercontent.com/114267693/195966811-3167898a-280a-4341-96c8-20b7b8bc754a.png)
+
 13. Copy your .UF2 File into the folder, if succesfully done it will vanish.
-14. Now open up 
+14. Now open device manager to obtain the com port number of your board
+
