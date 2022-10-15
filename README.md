@@ -52,3 +52,12 @@ mingw32-make -j6
 13. Copy your .UF2 File into the folder, if succesfully done it will vanish.
 14. Now open device manager to obtain the com port number of your board
 
+![image](https://user-images.githubusercontent.com/114267693/195967006-4571012f-6ff8-4913-a4d4-85dc0da15282.png)
+
+Now open Putty and chnage to serial, Enter Com Port Number and then enter the Baud Rate as 115200:
+
+![image]()
+
+
+
+
