@@ -26,6 +26,7 @@ The following tools need to be installed in order to run and compile the Pico C 
 6. You will now have to add the PICO_SDK_PATH to the environment variables. i was unable to do it through command line and therefore suggest go to the set environment variables in the start menu. The address of the PICO_SDK_PATH will be the directory where you have cloned the SDK and Examples.  
 
 ![image](https://user-images.githubusercontent.com/114267693/195966007-12b0df62-cd46-4a89-a7cb-17c5f0ac86fe.png)
+
 7. In your pico examples folder, create a folder called "build"
 
 Open a terminal inside build
