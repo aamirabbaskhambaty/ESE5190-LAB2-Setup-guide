@@ -54,9 +54,11 @@ mingw32-make -j6
 
 ![image](https://user-images.githubusercontent.com/114267693/195967006-4571012f-6ff8-4913-a4d4-85dc0da15282.png)
 
-Now open Putty and chnage to serial, Enter Com Port Number and then enter the Baud Rate as 115200:
+Now open Putty and chnage to serial, Enter Com Port Number and then enter the Baud Rate as 115200 and then click open
 
-![image]()
+![image](https://user-images.githubusercontent.com/114267693/195967106-30fe5321-1c87-42a9-b2d7-bfb96dc180cd.png)
+
+
 
 
 
