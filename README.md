@@ -24,4 +24,4 @@ The following tools need to be installed in order to run and compile the Pico C 
 4. Downlaod an install CMake
 5. Download and install the Arm GNU toolchain
 6. You will now have to add the PICO_SDK_PATH to the environment variables. i was unable to do it through command line and therefore suggest go to the set environment variables in the start menu. The address of the PICO_SDK_PATH will be the directory where you have cloned the SDK and Examples.
-
+<img src="" width="700" height="700">
