@@ -58,6 +58,14 @@ Now open Putty and chnage to serial, Enter Com Port Number and then enter the Ba
 
 ![image](https://user-images.githubusercontent.com/114267693/195967106-30fe5321-1c87-42a9-b2d7-bfb96dc180cd.png)
 
+you will now see the terminal open:
+
+![image](https://user-images.githubusercontent.com/114267693/195967312-c784b8e8-1d85-4bfe-8450-53e1580c3cf7.png)
+
+Finally you have built your first code. I have edited my code in Visual Studio code to display Hello USB.
+
+
+
 
 
 
